@@ -1,6 +1,6 @@
 # aur314 (AUR Packages Installer)
 
-A *Bash* script designed to install *[AUR](https://aur.archlinux.org/)* packages inside the *[Arch Linux](https://aur.archlinux.org/)* OS.
+A *Bash* script designed to install *[AUR](https://aur.archlinux.org/)* packages inside the *[Arch Linux](https://www.archlinux.org/)* OS.
 
 ## Installation
 
